@@ -1,8 +1,9 @@
 .bg-teal {
   background: #20B1AA;
   color: white;
+  min-height: 30vh;
 }
 
-* {
+/* * {
   border: 1px solid black;
-}
+}*/
